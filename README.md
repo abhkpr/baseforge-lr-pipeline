@@ -1,6 +1,5 @@
 # baseforge-lr-pipeline
 
-Linear Regression Lab Assignment using the Medical Insurance dataset.
 The project implements and compares Simple Linear Regression, Multiple
 Linear Regression, Polynomial Regression, Ridge Regression, and Lasso
 Regression using Python and Scikit-learn.
