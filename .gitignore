@@ -43,6 +43,10 @@ Thumbs.db
 # Large experimental datasets (optional)
 data/raw/
 # Additional logs 
+
+# Meta logs
+
 # Reinformed logs
+
 
 
